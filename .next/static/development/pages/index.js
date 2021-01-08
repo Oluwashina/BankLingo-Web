@@ -18560,7 +18560,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 11:
+/***/ 8:
 /*!****************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CMY%20PC%5CDocuments%5CMyProjects%5CReact%20Projects%5CBankLingoLandingWeb%5Cpages%5Cindex.js ***!
   \****************************************************************************************************************************************************************************/
@@ -18583,5 +18583,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[11,"static/runtime/webpack.js","styles"]]]);
+},[[8,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

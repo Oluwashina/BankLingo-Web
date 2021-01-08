@@ -1,0 +1,61 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/details-one.js": 0,
+      "multi private-next-pages/blog-one.js": 1,
+      "multi private-next-pages/blog-two.js": 2,
+      "multi private-next-pages/home-eight.js": 3,
+      "multi private-next-pages/blog-three.js": 4,
+      "multi private-next-pages/details-two.js": 5,
+      "multi private-next-pages/home-eleven.js": 6,
+      "multi private-next-pages/home-fifteen.js": 7,
+      "multi private-next-pages/home-five.js": 8,
+      "multi private-next-pages/home-four.js": 9,
+      "multi private-next-pages/home-fourteen.js": 10,
+      "multi private-next-pages/home-nine.js": 11,
+      "multi private-next-pages/home-seven.js": 12,
+      "multi private-next-pages/home-six.js": 13,
+      "multi private-next-pages/home-sixteen.js": 14,
+      "multi private-next-pages/home-ten.js": 15,
+      "multi private-next-pages/home-thirteen.js": 16,
+      "multi private-next-pages/home-three.js": 17,
+      "multi private-next-pages/home-twelve.js": 18,
+      "multi private-next-pages/index.js": 19,
+      "multi private-next-pages/home-two.js": 20,
+      "multi private-next-pages/_app.js": 21,
+      "multi private-next-pages/_document.js": 22,
+      "multi next/dist/pages/_error": 23
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}

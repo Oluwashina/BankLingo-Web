@@ -1,0 +1,137 @@
+{
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\react-accessible-accordion\\dist\\fancy-example.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\react-modal-video\\scss\\modal-video.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\color-switcher.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\responsive.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\style.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\icofont.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\animate.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\react-modal-video\\scss\\modal-video.scss 0": 0,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\react-accessible-accordion\\dist\\fancy-example.css 0": 1,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\bootstrap.min.css 0": 2,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\animate.css 0": 3,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\icofont.css 0": 4,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\style.scss 0": 5,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\style.scss 1": 6,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--5-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\sass-loader\\lib\\loader.js??ref--5-2!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\style.scss 2": 7,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\responsive.css 0": 8,
+      "css ../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\node_modules\\css-loader\\index.js??ref--8-1!../../../../../MY PC\\Documents\\MyProjects\\React Projects\\BankLingoLandingWeb\\assets\\css\\color-switcher.css 0": 9
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}

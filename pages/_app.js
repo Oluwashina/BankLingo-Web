@@ -14,7 +14,7 @@ import ColorSwitch from '../components/Shared/ColorSwitch';
 export default class MyApp extends App {
 
     state = {
-        tempColor: 'color-default.css'
+        tempColor: 'gradient-color-ten.css'
     };
 
     static async getInitialProps ({ Component, ctx }) {
